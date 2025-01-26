@@ -1,0 +1,10 @@
+
+Host 172.178.71.165
+    HostName 172.178.71.165
+    User adminuser
+    IdentityFile ~/.ssh/mtcazurekey
+
+Host 172.190.179.96
+    HostName 172.190.179.96
+    User adminuser
+    IdentityFile ~/.ssh/mtcazurekey
